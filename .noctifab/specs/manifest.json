@@ -1,0 +1,10 @@
+{
+  "spec_source": "SPEC.md",
+  "spec_sha256": "f2d28563743f8bfd9d58da18bad25e70ae4404fb5402ea123ec54d4a28a3e6fc",
+  "compaction_mode": "none",
+  "generated_at": "2026-10-18T07:27:22Z",
+  "total_lines": 151,
+  "total_bytes": 5270,
+  "core_file": "00_core_invariants.md",
+  "sections": []
+}
